@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "0Ir92Q2jF/k2P3r1EOvFSd5iCDQXTBA/+pTiTGZHzYfFxRgph3u3xgDAz0f6BZj5jVekCoW6rHzIHvsKu1wbZQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bengtsson.kevin\\Documents\\Grafik\\Grafik\\Grafik.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bengtsson.kevin\\.nuget\\packages\\raylib-cs\\3.7.0.1\\raylib-cs.3.7.0.1.nupkg.sha512",
+    "C:\\Users\\bengtsson.kevin\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
